@@ -276,6 +276,11 @@ body {
     color: #ffffff;
   }
 
+  .centered-row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
   
   @keyframes scrollDepoimentos {
     0% {
