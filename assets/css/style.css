@@ -227,7 +227,7 @@ body {
   .carousel-depoimentos-track {
     display: flex;
     gap: 30px;
-    animation: scrollDepoimentos 15s linear infinite;
+    animation: scrollDepoimentos 60s linear infinite;
   }
   .back-color{
     background-color: #01402E !important;
@@ -256,7 +256,7 @@ body {
     padding: 20px;
     box-shadow: 24px 22px 24px 9px rgba(0, 0, 0, 0.1);
     color: #989898;
-    transition: transform 0.3s ease-in-out;
+    transition: transform 0.9s ease-in-out;
   }
   
   .depoimento-card footer {
