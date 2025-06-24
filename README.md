@@ -1,6 +1,6 @@
-# 🍹 Site Institucional - [Nome da Empresa de Bebidas]
+# 🍹 Site Institucional - Melhores Drinks
 
-Este é o projeto de desenvolvimento do site institucional da **[Nome da Empresa]**, desenvolvido utilizando **HTML, CSS, JavaScript e Bootstrap**.
+Este é o projeto de desenvolvimento do site institucional da **Melhores Drinks**, desenvolvido utilizando **HTML, CSS, JavaScript e Bootstrap**.
 
 O objetivo do site é apresentar a empresa, seus produtos e oferecer um canal direto de atendimento através do WhatsApp.
 
