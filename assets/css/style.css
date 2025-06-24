@@ -229,6 +229,22 @@ body {
     gap: 30px;
     animation: scrollDepoimentos 30s linear infinite;
   }
+  .back-color{
+    background-color: #01402E !important;
+    color: white;
+  }
+  .back-colors{
+    background-color: #01261C !important;
+    color: white;
+  }
+  .back-colorr{
+    background-color:white !important;
+    color: white;
+  }
+  .text-bout{
+    color: white !important;
+    font-size: 19px !important;
+  }
   
   .depoimento-card {
     margin-top: 5vh !important;
