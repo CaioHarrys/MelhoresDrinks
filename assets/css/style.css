@@ -91,7 +91,7 @@ body {
   
   .navbar {
     backdrop-filter: blur(10px);
-    background-color: rgba(225, 216, 216, 0.85) !important;
+    background-color: #337405 !important;
   }
   
   .navbar-brand img {
@@ -103,7 +103,7 @@ body {
     font-size: 1.25rem;
     font-weight: 600;
     margin: 0;
-    color: rgb(40, 38, 38);
+    color: #ffffff;
   }
   
   .navbar-nav .nav-link {
@@ -120,7 +120,7 @@ body {
   .navbar-nav .nav-link {
     
     position: relative;
-    color: #0b0b0b;
+    color: #74A651;
     transition: color 0.3s ease;
   }
   
@@ -275,6 +275,7 @@ body {
     font-size: 0.9rem;
     color: #ffffff;
   }
+
   
   @keyframes scrollDepoimentos {
     0% {
