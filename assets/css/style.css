@@ -227,7 +227,7 @@ body {
   .carousel-depoimentos-track {
     display: flex;
     gap: 30px;
-    animation: scrollDepoimentos 30s linear infinite;
+    animation: scrollDepoimentos 15s linear infinite;
   }
   .back-color{
     background-color: #01402E !important;
